@@ -1,4 +1,4 @@
-# 📦 Inventory & Supply Chain Management Analytics — End-to-End SQL + Python + Power BI Project
+# 📦 Inventory & Supply Chain Management Analytics — End-to-End SQL + Python + Power BI
 
 ## 📘 Project Overview
 
